@@ -1,0 +1,1 @@
+$ terraform import alicloud_slb_acl.example acl-abc123456

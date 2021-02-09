@@ -1,0 +1,1 @@
+https://www.terraform.io/docs/providers/alicloud/r/network_interface.html#private_ip
