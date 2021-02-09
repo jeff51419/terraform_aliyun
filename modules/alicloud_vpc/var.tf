@@ -13,8 +13,8 @@ variable "cidr_block" {
 
 variable "secondary_cidr_blocks" {
   description = "he secondary CIDR blocks for the VPC"
-  type        = string
-  default     = ""
+  type        = list(string)
+  default     = []
 }
 
 variable "description" {
